@@ -1,6 +1,6 @@
 # Paychex MCP Server
 
-This project is a demonstration MCP (Machine Callable Program) server that interacts with the Paychex Developer API documentation. It allows integration with various LLMs (Language Learning Models) to process queries against Paychex documentation.
+This project is a demonstration MCP (Machine Context Protocol) server that interacts with the Paychex Developer API documentation. It allows integration with various LLMs (Language Learning Models) to process queries against Paychex documentation.
 
 ## Features
 
